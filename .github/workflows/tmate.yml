@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 360  # 6 hours max
 
     steps:
-      - name: â¬‡ï¸ Checkout
+      - name: â¬‡ï¸ Checkout
         uses: actions/checkout@v3
 
       - name: ðŸ“ Create dirs
